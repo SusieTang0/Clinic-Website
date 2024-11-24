@@ -1,7 +1,7 @@
 # Clinic-Website  ： Appointment Booking and Management Web Application  
 
 ## Project Overview  
-This web application is designed to streamline the appointment booking and management process for a clinic. It allows users to easily manage appointments, provide feedback, and update their profiles, while also offering an informative platform for non-registered users to learn about and contact the clinic.  
+This web application is designed to streamline the appointment booking and management process for a clinic. It allows users to easily manage appointments, provide feedback, and update their profiles, while also offering an informative platform for non-registered users to learn about and contact the clinic.
 
 ## Features  
 ### For Registered Users:  
@@ -31,7 +31,7 @@ This web application is designed to streamline the appointment booking and manag
 - **Appointment Management Page:**
 ![Screenshot 2024-10-28 134125](https://github.com/user-attachments/assets/635807b5-c07f-4ffb-a0fd-f732b735b898)
 
-- **Profile View & Edit Page:**
+- **Profile View & Edit:**
 ![Screenshot 2024-10-28 134142](https://github.com/user-attachments/assets/eb5555da-b56a-4a87-bdc3-52c4f4849429)
 ![Screenshot 2024-10-28 134201](https://github.com/user-attachments/assets/1a854677-a57a-43c7-8877-bec28bce26cf)
 
